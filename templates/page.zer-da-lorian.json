@@ -1,0 +1,129 @@
+{
+  "sections": {
+    "c0036471-cab9-4082-9986-cd3bfe51d3f4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-0": {
+          "type": "column",
+          "settings": {
+            "title": "01. Ilusioa",
+            "text": "<p>proiektua abian jartzeko, zurekin konpartitzeko eta aurrera pozik egiteko beharrezkoa den motorra<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-1": {
+          "type": "column",
+          "settings": {
+            "title": "02. Nortasuna",
+            "text": "<p>LORIAN, nirea, zurea eta harena, <strong>gurea<\/strong> bihur dadin. Guztiona.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-2": {
+          "type": "column",
+          "settings": {
+            "title": "03. Emozioa",
+            "text": "<p>zirrara piztuko diguten unibertso bat landu nahi dugulako guztion artean<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4272ebdd-f19f-48dd-878c-faf21fa063e3": {
+          "type": "column",
+          "settings": {
+            "title": "04. Hitza",
+            "text": "<p>etengabeko elkarrizketa sortu nahi dugulako zurekin. Hitza, ideiak eta emozioak transmititzeko erabili nahi ditugu<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "027d99a9-b502-408f-a7e7-b4ae26ccd20c": {
+          "type": "column",
+          "settings": {
+            "title": "05. Konpromezua",
+            "text": "<p>jasangarritasuna aukera bat ez delako, nahita nahiezko behar bat baizik<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a941b7d2-0693-43c8-8fa1-7cf1c812c403": {
+          "type": "column",
+          "settings": {
+            "title": "06. Irrifarra",
+            "text": "<p>jarreran dagoelako bizitzaren gakoa<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-0",
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-1",
+        "template--18575343452496__c0036471-cab9-4082-9986-cd3bfe51d3f4-1681772009c654d3c5-2",
+        "4272ebdd-f19f-48dd-878c-faf21fa063e3",
+        "027d99a9-b502-408f-a7e7-b4ae26ccd20c",
+        "a941b7d2-0693-43c8-8fa1-7cf1c812c403"
+      ],
+      "settings": {
+        "title": "Lorian gara",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "624e3a50-65f9-4958-ba17-6f05c209e2d4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Giro On bilduma",
+        "font_type": "keyVirtue",
+        "heading_size": "h1",
+        "heading_centered": true,
+        "description": "<p>&lt;jon&gt;Bilduma bat sortzeko adibidea...&lt;\/jon&gt;<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "c0036471-cab9-4082-9986-cd3bfe51d3f4",
+    "main",
+    "624e3a50-65f9-4958-ba17-6f05c209e2d4"
+  ]
+}

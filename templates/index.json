@@ -1,0 +1,267 @@
+{
+  "sections": {
+    "a5ed6ca6-c227-46a9-b582-ae2620db8f8e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jantzi zure jarrera",
+            "heading_size": "h2"
+          }
+        },
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Ekoizpen etikoa, balore sendoak",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Denda",
+            "button_link_1": "shopify:\/\/pages\/giro-on",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-0",
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-1",
+        "template--18365449437520__a5ed6ca6-c227-46a9-b582-ae2620db8f8e-1681159542541a0645-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "is_front_hero": true,
+        "image": "shopify:\/\/shop_images\/kids.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1e944377-0e18-4352-8023-ccbdd50c2473": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--18365449437520__1e944377-0e18-4352-8023-ccbdd50c2473-1679389203870afe33-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skate_neska.jpg",
+            "heading": "ZURE ARROPA, GURE PLANETA",
+            "heading_size": "h2",
+            "subheading": "ekoizpen etikoan, bizitza hobetuz",
+            "button_label": "denda",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18365449437520__1e944377-0e18-4352-8023-ccbdd50c2473-1679389203870afe33-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/salto_hondartza.jpg",
+            "heading": "ZURE ARROPA, GURE PLANETA",
+            "heading_size": "h2",
+            "subheading": "ekoizpen etikoan, bizitza hobetuz",
+            "button_label": "denda",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1b895e0c-33d5-42dd-8b82-7610d2aaa544": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/futbola.jpg",
+            "heading": "ZURE ARROPA, GURE PLANETA",
+            "heading_size": "h2",
+            "subheading": "ekoizpen etikoan, bizitza hobetuz",
+            "button_label": "denda",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "498a12c9-2ef7-46e3-a66f-4ebcb09ba38b": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18365449437520__1e944377-0e18-4352-8023-ccbdd50c2473-1679389203870afe33-0",
+        "template--18365449437520__1e944377-0e18-4352-8023-ccbdd50c2473-1679389203870afe33-1",
+        "1b895e0c-33d5-42dd-8b82-7610d2aaa544",
+        "498a12c9-2ef7-46e3-a66f-4ebcb09ba38b"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "ac078ae8-ef5e-4e7f-9a6c-035211812a6a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18365449437520__ac078ae8-ef5e-4e7f-9a6c-035211812a6a-1681003307a8bdd601-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Zuretzako arropa<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--18365449437520__ac078ae8-ef5e-4e7f-9a6c-035211812a6a-1681003307a8bdd601-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LORIANek emozio positiboak transmititzen dituzten diseinu eta hitzen arropa bildumak eskaintzen dizkizu.<\/p><p>Komunikazioa eta komunitatea, ulermena eta errespetua edota eko-ardura sustatzeko asmoz.<\/p><p>Batu gurera!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18365449437520__ac078ae8-ef5e-4e7f-9a6c-035211812a6a-1681003307a8bdd601-0",
+        "template--18365449437520__ac078ae8-ef5e-4e7f-9a6c-035211812a6a-1681003307a8bdd601-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Gure gogokoenak",
+        "font_type": "freeLicense",
+        "heading_size": "h0",
+        "heading_centered": true,
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "frontpage",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 0
+      }
+    },
+    "0a019be1-6542-4a13-b7a5-23a1122015fe": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "ZURE ARROPA, GURE PLANETA",
+            "button_link_1": "shopify:\/\/pages\/zergatik-organikoa",
+            "button_style_secondary_1": true,
+            "button_label_2": "#GIRO_ON",
+            "button_link_2": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-0",
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-1",
+        "template--18365449437520__0a019be1-6542-4a13-b7a5-23a1122015fe-1679578157d2e564b4-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "is_front_hero": false,
+        "image": "shopify:\/\/shop_images\/pexels-cottonbro-studio-4273425.jpg",
+        "image_2": "shopify:\/\/shop_images\/WhatsApp_Image_2023-04-10_at_18.11.38.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "a5ed6ca6-c227-46a9-b582-ae2620db8f8e",
+    "1e944377-0e18-4352-8023-ccbdd50c2473",
+    "ac078ae8-ef5e-4e7f-9a6c-035211812a6a",
+    "featured-collection",
+    "0a019be1-6542-4a13-b7a5-23a1122015fe"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "8fc12691-0174-4dee-9d76-f5d3d778ddaf": {
+      "type": "video-background",
+      "blocks": {
+        "template--18480317170000__8fc12691-0174-4dee-9d76-f5d3d778ddaf-1680441295a952a01c-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9a2b90276abc43fd926ea6d642ad2cd5.mp4",
+            "overlay_opacity": 0,
+            "title": "Gure baratza",
+            "heading_align": "left",
+            "font_type": "spiceyRice",
+            "text": "<div class=\"grid grid--1-col grid--2-col grid--4-col-tablet\">\n  <div class=\"grid__item\">\n    <div>#maitasuna<\/div>\n    <div>#sormena<\/div>\n    <div>#ilusioa<\/div>\n    <div>#umorea<\/div>\n    <div>#laguntasuna<\/div>\n  <\/div>\n  <div class=\"grid__item\">\n    <div>#ahalduntzea<\/div>\n    <div>#errespetua<\/div>\n    <div>#bizipoza_<span class=\"font-spiceyRice\">Lorian<\/span>\n<\/div>\n    <div>#indartzea<\/div>\n    <div>#irribarrea<\/div>\n  <\/div>\n  <div class=\"grid__item\">\n    <div>#hazkuntza<\/div>\n<div>#berdintasun_printzipioa<\/div>\n    <div>#enpatia<\/div>\n    <div>#ulermena<\/div>\n    <div>#Giro_on<\/div>\n  <\/div>\n<\/div>",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--18480317170000__8fc12691-0174-4dee-9d76-f5d3d778ddaf-1680441295a952a01c-0"
+      ],
+      "settings": {
+      }
+    },
+    "95ef419c-ef4a-40e1-97ea-db2fe1ab31fd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8fc12691-0174-4dee-9d76-f5d3d778ddaf",
+    "95ef419c-ef4a-40e1-97ea-db2fe1ab31fd"
+  ]
+}
